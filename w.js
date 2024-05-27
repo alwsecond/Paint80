@@ -1,6 +1,6 @@
 const WebSocket = require('ws');
 const wss = new WebSocket.Server({ port: 8080 });
-console.log('server started on port 8080');
+console.log('socket started on port 8080');
 
 valid = "";
 
