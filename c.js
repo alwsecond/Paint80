@@ -1,4 +1,4 @@
-const ws = new WebSocket("ws://192.168.0.107:8080");
+const ws = new WebSocket("ws://127.0.0.1:8080");
 
 const mapsx = 8;
 const mapsy = 10;
