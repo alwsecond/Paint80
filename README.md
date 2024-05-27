@@ -1,6 +1,6 @@
 # NodeJs websocket server;
 npm install ws
 
-node w.js and d
+node w.js
 
 _draw and fun_
